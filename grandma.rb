@@ -5,7 +5,7 @@ def speak_to_grandma(greeting)
   elsif greeting != greeting.upcase
     "HUH?! SPEAK UP, SONNY!"
   else
-    " NO, NOT SINCE 1938!"
+    "NO, NOT SINCE 1938!"
   end
 end
 
